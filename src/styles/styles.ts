@@ -47,13 +47,27 @@ export const ThreeBoots = styled.div`
     gap: 10px;
     align-items: center;
     justify-content: center;
+    img {
+        width: 285px;
+    }
     div {
         display: flex;
         flex-direction: column;
         gap: 10px;
+        img {
+            width: 250px;
+        }
     }
     @media (max-width: 768px) {
         width: 300px;
+        img {
+            width: 185px;
+        }
+        div{ 
+            img {
+            width: 150px;
+        }
+        }
     }
 `
 

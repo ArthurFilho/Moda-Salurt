@@ -37,10 +37,10 @@ export function App() {
         </BannerTenis>
         
         <ThreeBoots> 
-        <img src={TenisOne} width={285} alt="" />
+        <img src={TenisOne} alt="" />
         <div>
-          <img src={TenisTwo} width={250} alt="" />
-          <img src={TenisThree} width={250} alt="" />
+          <img src={TenisTwo} alt="" />
+          <img src={TenisThree} alt="" />
         </div>
         </ThreeBoots>
 
