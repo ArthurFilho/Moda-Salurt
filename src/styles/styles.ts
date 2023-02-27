@@ -65,7 +65,7 @@ export const ThreeBoots = styled.div`
         }
         div{ 
             img {
-            width: 150px;
+            width: 155px;
         }
         }
     }
