@@ -6,10 +6,6 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
     }
-:focus {
-      outline: 0;
-      box-sizing: 0 0 0 2px blue ;
-}
 body {
     background-color: white;
     color: black;
