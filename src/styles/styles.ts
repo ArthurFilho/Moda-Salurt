@@ -26,8 +26,24 @@ export const ThreeBoots = styled.div`
     height: 300px;
     background-color: black;
     margin-bottom: 50px;
+    gap: 10px;
     div {
         display: flex;
         flex-direction: column;
+        gap: 10px;
     }
+`
+
+export const BannerLogo = styled.div`
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    margin-bottom: 50px;
+`
+
+export const Boots = styled.div`
+    width: 700px;
+    height: 400px;
+    background-color: black;
+    margin-bottom: 40px;
 `
