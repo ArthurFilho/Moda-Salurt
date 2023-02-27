@@ -48,6 +48,7 @@ export const BannerLogo = styled.div`
     height: 200px;
     margin-bottom: 50px;
     background-image: url(${BannerLogoImage});
+    background-position: center;
 `
 
 export const Boots = styled.div`

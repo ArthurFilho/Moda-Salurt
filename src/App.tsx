@@ -10,6 +10,10 @@ import Tenis4 from "./assets/sapatos/tenis-4.png"
 import Tenis5 from "./assets/sapatos/tenis-5.png"
 import Tenis6 from "./assets/sapatos/tenis-6.png"
 
+import TenisOne from "./assets/ThreeBoots/1.png"
+import TenisTwo from "./assets/ThreeBoots/2.png"
+import TenisThree from "./assets/ThreeBoots/3.png"
+
 export function App() {
 
   return (
@@ -29,14 +33,14 @@ export function App() {
       </LogoContainer>
 
         <BannerTenis>
-          <img src={TenisBanner} alt="" />
+          <img src={TenisBanner} width={450} alt="" />
         </BannerTenis>
         
         <ThreeBoots> 
-        <img src={Tenis1} width={500} alt="" />
+        <img src={TenisOne} width={285} alt="" />
         <div>
-          <img src={Tenis1} width={250} alt="" />
-          <img src={Tenis1} width={250} alt="" />
+          <img src={TenisTwo} width={250} alt="" />
+          <img src={TenisThree} width={250} alt="" />
         </div>
         </ThreeBoots>
 
