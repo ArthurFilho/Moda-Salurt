@@ -20,7 +20,7 @@ export function App() {
     <MainContainer>
       <LogoContainer>
         
-        <img src={Logo} width={50} />
+        <img src={Logo} />
         
         <div>
         
@@ -33,7 +33,7 @@ export function App() {
       </LogoContainer>
 
         <BannerTenis>
-          <img src={TenisBanner} width={450} alt="" />
+          <img src={TenisBanner} alt="" />
         </BannerTenis>
         
         <ThreeBoots> 
@@ -48,12 +48,12 @@ export function App() {
         </BannerLogo>
 
         <Boots>
-          <img src={Tenis1} width={200} alt="" />
-          <img src={Tenis2} width={200} alt="" />
-          <img src={Tenis3} width={200} alt="" />
-          <img src={Tenis4} width={200} alt="" />
-          <img src={Tenis5} width={200} alt="" />
-          <img src={Tenis6} width={200} alt="" />
+          <img src={Tenis1} alt="" />
+          <img src={Tenis2} alt="" />
+          <img src={Tenis3} alt="" />
+          <img src={Tenis4} alt="" />
+          <img src={Tenis5} alt="" />
+          <img src={Tenis6} alt="" />
         </Boots>
 
         <LogoContainer>

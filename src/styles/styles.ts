@@ -13,6 +13,9 @@ export const MainContainer = styled.div`
 export const LogoContainer = styled.div`
     display: flex;
     margin-top: 15px;
+    img {
+        width: 50px;
+    }
 `
 
 export const BannerTenis = styled.div`
@@ -26,9 +29,12 @@ export const BannerTenis = styled.div`
     background-color: black;
     background-image: url(${BannerLogoImage1});
     background-position: center;
+    img {
+        width: 450px;
+    }
     @media (max-width: 768px) {
         img {
-            width: 300;
+            width: 300px;
         }
     }
 `
@@ -47,7 +53,7 @@ export const ThreeBoots = styled.div`
         gap: 10px;
     }
     @media (max-width: 768px) {
-        width: 500px;
+        width: 300px;
     }
 `
 
@@ -67,11 +73,14 @@ export const Boots = styled.div`
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+    img {
+        width: 200px;
+    }
     @media (max-width: 768px) {
         gap: 10px;
         height: 100%;
         img {
-            width: 300px;
+            width: 400px;
         }
     }
 `
