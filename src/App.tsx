@@ -1,4 +1,5 @@
 import Logo from "./assets/logo.png"
+import Logo2 from "./assets/logo2.png"
 import { GlobalStyle } from "./styles/global"
 import { BannerLogo, BannerTenis, Boots, LogoContainer, MainContainer, ThreeBoots } from "./styles/styles"
 import TenisBanner from "./assets/banners/tenis.png"
@@ -45,15 +46,18 @@ export function App() {
         </ThreeBoots>
 
         <BannerLogo >
+          <p>Compre agora seu modelo de tênis</p>
+          <h2>JUNTO CONOSCO O MELHOR</h2>
+          <img src={Logo2} width={100} alt="" />
         </BannerLogo>
 
         <Boots>
-          <img src={Tenis1} alt="" />
-          <img src={Tenis2} alt="" />
-          <img src={Tenis3} alt="" />
-          <img src={Tenis4} alt="" />
-          <img src={Tenis5} alt="" />
-          <img src={Tenis6} alt="" />
+          <img src={Tenis1} alt="tenis" />
+          <img src={Tenis2} alt="tenis" />
+          <img src={Tenis3} alt="tenis" />
+          <img src={Tenis4} alt="tenis" />
+          <img src={Tenis5} alt="tenis" />
+          <img src={Tenis6} alt="tenis" />
         </Boots>
 
         <LogoContainer>

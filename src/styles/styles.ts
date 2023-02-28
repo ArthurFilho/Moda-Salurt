@@ -72,6 +72,11 @@ export const ThreeBoots = styled.div`
 `
 
 export const BannerLogo = styled.div`
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     width: 100%;
     height: 200px;
     margin-bottom: 50px;
@@ -92,9 +97,11 @@ export const Boots = styled.div`
     }
     @media (max-width: 768px) {
         gap: 10px;
+        flex-direction: column;
+        flex-wrap: nowrap;
         height: 100%;
         img {
-            width: 400px;
+            width: 350px;
         }
     }
 `
