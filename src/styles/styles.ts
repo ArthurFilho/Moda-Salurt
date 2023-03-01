@@ -117,7 +117,7 @@ export const Boots = styled.div`
         margin-bottom: 150px;
         div {
             gap: 130px;
-            top: 1250px;
+            top: 1200px;
             left: 150px;
         }
         img {
