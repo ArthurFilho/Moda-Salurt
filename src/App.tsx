@@ -90,7 +90,7 @@ export function App() {
             <ArrowCircleLeft size={32} />
           </button>
           <button onClick={handleNext}>
-              <ArrowCircleRight size={32} />
+            <ArrowCircleRight size={32} />
           </button>
           </div>
         </Boots>
