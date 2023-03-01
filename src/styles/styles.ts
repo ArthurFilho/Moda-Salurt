@@ -79,21 +79,38 @@ export const BannerLogo = styled.div`
     flex-direction: column;
     width: 100%;
     height: 200px;
-    margin-bottom: 50px;
     background-image: url(${BannerLogoImage});
     background-position: center;
 `
 
 export const Boots = styled.div`
-    width: 700px;
-    height: 400px;
-    margin-bottom: 40px;
+    width: 100%;
+    height: 650px;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
+    margin-bottom: 300px;
     img {
-        width: 200px;
+        width: 1500px;
+        position: absolute;
+        left: 0;
+        z-index: -1;
+    }
+    div {
+        display: flex;
+        gap: 400px;
+        position: absolute;
+        top: 1300px;
+        left: 490px;
+        button {
+            display: flex;
+            align-items: center;
+            border: none;
+            cursor: pointer;
+        img {
+            width: 50px;
+        }
+    }
     }
     @media (max-width: 768px) {
         gap: 10px;
