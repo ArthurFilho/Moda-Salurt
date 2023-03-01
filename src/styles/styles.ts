@@ -113,15 +113,15 @@ export const Boots = styled.div`
     }
     }
     @media (max-width: 768px) {
-        height: 400px;
+        height: 300px;
         margin-bottom: 150px;
         div {
-            gap: 200px;
-            top: 1225px;
-            left: 250px;
+            gap: 130px;
+            top: 1250px;
+            left: 150px;
         }
         img {
-            width: 800px;
+            width: 500px;
         }
     }
 `
