@@ -11,6 +11,6 @@
 <!-- <h1> <a href="https://moda-salurt.netlify.app/"> Clique aqui para ver o site em ação </a></h1> -->
 
 <h1> Descrição </h1>
-<p> Projeto desenvolvido com intuito de ser um site de vendas.</p>
+<p> Moda Salurt é um projeto de site de vendas de tênis incríveis. Nele, você pode encontrar uma variedade de modelos e marcas exclusivas, que vão desde os clássicos até os mais modernos e descolados.</p>
 
 
