@@ -1,6 +1,12 @@
 <h1> Moda-Salurt </h1>
 
-![image](https://user-images.githubusercontent.com/96798145/221444816-c700d964-8e04-4e21-a2bc-cfa96406ef7a.png)
+![image](https://user-images.githubusercontent.com/96798145/222509456-817496d0-b4df-4aca-813a-727fcdcff932.png)
+
+![image](https://user-images.githubusercontent.com/96798145/222509540-6a72474c-4750-42a5-8455-e9ad8cde503c.png)
+
+![image](https://user-images.githubusercontent.com/96798145/222509624-e0accdfc-3411-4148-b3ee-b6573ba60bd7.png)
+
+![image](https://user-images.githubusercontent.com/96798145/222509721-02e51177-4d85-451a-8929-c217aa275af5.png)
 
 <h2> O que foi utilizado 💻 </h2>
 
