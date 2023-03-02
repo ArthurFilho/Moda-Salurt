@@ -113,10 +113,3 @@ export function App() {
     </MainContainer>
   )
 }
-
-          // <img src={Tenis1} alt="tenis" />
-          // <img src={Tenis2} alt="tenis" />
-          // <img src={Tenis3} alt="tenis" />
-          // <img src={Tenis4} alt="tenis" />
-          // <img src={Tenis5} alt="tenis" />
-          // <img src={Tenis6} alt="tenis" />
